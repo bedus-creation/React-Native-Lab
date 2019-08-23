@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Aai",
+    "slug": "global-release",
+    "privacy": "public",
+    "sdkVersion": "34.0.0",
+    "platforms": [
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.aammui.aai"
+    }
+  }
+}
